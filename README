@@ -1,0 +1,12 @@
+This project is used as parent pom for my blog projects.
+
+If you want to build one of those projects, you'll need to add the repository for this artifact to your settings.xml.
+
+Repository:
+<repository>
+  <id>nl.sogiti.java.blog.nickstolwijk.parentpom-repo</id>
+  <name>nl.sogiti.java.blog.nickstolwijk.parentpom repository on GitHub</name>
+  <url>http://nickstolwijk.github.com/ParentPom/repository/</url>
+</repository>
+
+Snapshot repository:
